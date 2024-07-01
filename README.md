@@ -41,7 +41,7 @@ Before running this project, ensure you have the following installed:
     ```
 3. **Install Dependencies**
     ```bash
-    npm intstall
+    npm install
     ```
 4. **Start The RabbitMQ Server**
 
