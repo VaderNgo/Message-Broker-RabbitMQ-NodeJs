@@ -12,7 +12,7 @@ This project demonstrates a simple implementation of RabbitMQ with Node.js to il
 
 ## 🚀 Overview
 
-Message brokers like RabbitMQ facilitate communication between applications by enabling asynchronous messaging. This project showcases a basic scenario where messages are exchanged between a producer and a consumer using RabbitMQ.
+Message brokers like RabbitMQ facilitate communication between applications by enabling asynchronous messaging. This project showcases a basic scenario where messages are exchanged between a sender and a receiver using RabbitMQ.
 
 ## 🛠️ Prerequisites
 
