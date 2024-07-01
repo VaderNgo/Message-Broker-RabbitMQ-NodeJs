@@ -4,7 +4,7 @@ const queue = "user-message";
 
 const message = {
     message_id: "just-put-random-uuid-here",
-    content: "Hello World",
+    content: "Hello World 123",
 };
 
 async function sendMessage() {
